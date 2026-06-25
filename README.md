@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/nahidul-sami/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Math
+|  |
+| ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/nahidul-sami/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
