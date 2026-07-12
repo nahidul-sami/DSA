@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/nahidul-sami/DSA/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nahidul-sami/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nahidul-sami/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/nahidul-sami/DSA/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/nahidul-sami/DSA/tree/master/3668-restore-finishing-order) |
 | [3895-count-digit-appearances](https://github.com/nahidul-sami/DSA/tree/master/3895-count-digit-appearances) |
 ## String
@@ -59,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nahidul-sami/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3467-transform-array-by-parity](https://github.com/nahidul-sami/DSA/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/nahidul-sami/DSA/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/nahidul-sami/DSA/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
