@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nahidul-sami/DSA/tree/master/0070-climbing-stairs) |
 | [1486-xor-operation-in-an-array](https://github.com/nahidul-sami/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nahidul-sami/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nahidul-sami/DSA/tree/master/2235-add-two-integers) |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/nahidul-sami/DSA/tree/master/0175-combine-two-tables) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nahidul-sami/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nahidul-sami/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nahidul-sami/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
