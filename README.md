@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nahidul-sami/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/nahidul-sami/DSA/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/nahidul-sami/DSA/tree/master/3668-restore-finishing-order) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nahidul-sami/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/nahidul-sami/DSA/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nahidul-sami/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nahidul-sami/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nahidul-sami/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nahidul-sami/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/nahidul-sami/DSA/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
 |  |
