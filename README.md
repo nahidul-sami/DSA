@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/nahidul-sami/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nahidul-sami/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nahidul-sami/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nahidul-sami/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nahidul-sami/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nahidul-sami/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/nahidul-sami/DSA/tree/master/3895-count-digit-appearances) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nahidul-sami/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nahidul-sami/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
 | ------- |
