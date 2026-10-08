@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nahidul-sami/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nahidul-sami/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nahidul-sami/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/nahidul-sami/DSA/tree/master/1816-truncate-sentence) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nahidul-sami/DSA/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nahidul-sami/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nahidul-sami/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
